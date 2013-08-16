@@ -207,6 +207,7 @@
 		BCEE66561761890B0028ED72 /* HttpClient.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BCEE66551761890B0028ED72 /* HttpClient.cpp */; };
 		BCEE665F1761890B0028ED72 /* AppDelegate.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BCEE665E1761890B0028ED72 /* AppDelegate.cpp */; };
 		BCEE66621761890B0028ED72 /* HelloWorldScene.cpp in Sources */ = {isa = PBXBuildFile; fileRef = BCEE66611761890B0028ED72 /* HelloWorldScene.cpp */; };
+		BCEE66691761967C0028ED72 /* player2.png in Resources */ = {isa = PBXBuildFile; fileRef = BCEE66681761967C0028ED72 /* player2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -650,6 +651,7 @@
 		BCEE665E1761890B0028ED72 /* AppDelegate.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = AppDelegate.cpp; path = Classes/AppDelegate.cpp; sourceTree = "<group>"; };
 		BCEE66601761890B0028ED72 /* HelloWorldScene.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = HelloWorldScene.h; path = Classes/HelloWorldScene.h; sourceTree = "<group>"; };
 		BCEE66611761890B0028ED72 /* HelloWorldScene.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = HelloWorldScene.cpp; path = Classes/HelloWorldScene.cpp; sourceTree = "<group>"; };
+		BCEE66681761967C0028ED72 /* player2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = player2.png; path = Resources/player2.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -725,6 +727,7 @@
 				BCEE63C7176189030028ED72 /* HelloWorld.png */,
 				BCEE63C9176189030028ED72 /* Icon-72.png */,
 				BCEE63CB176189030028ED72 /* Icon-Small-50.png */,
+				BCEE66681761967C0028ED72 /* player2.png */,
 				BCEE63CD176189030028ED72 /* Icon-Small.png */,
 				BCEE63CF176189030028ED72 /* Icon-Small@2x.png */,
 				BCEE63D1176189030028ED72 /* Icon.png */,
@@ -1620,6 +1623,7 @@
 				BCEE63D4176189030028ED72 /* Icon@2x.png in Resources */,
 				BCEE63D6176189030028ED72 /* iTunesArtwork in Resources */,
 				BCEE6468176189050028ED72 /* ChangeLog in Resources */,
+				BCEE66691761967C0028ED72 /* player2.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
